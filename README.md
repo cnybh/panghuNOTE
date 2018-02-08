@@ -6,7 +6,7 @@ panghuNOTE 胖虎笔记 简单纯净高效的网络笔记
 
 它不仅能存储TXT格式文档，还能方便的制作完美的截图，快速分享你的笔记，请尽情的享受书写吧！
 
-*主页：https://github.com/cnybh/panghuNOTE  *作者邮箱：bohangyang985@hotmail.com
+* 主页：https://github.com/cnybh/panghuNOTE   * 作者邮箱：bohangyang985@hotmail.com
 
 作者目前就读于中国河北省一所大学，由于学业繁忙，无法保证定期更新，希望大家谅解，谢谢！
 
