@@ -33,6 +33,8 @@ panghuNOTE 胖虎笔记 简单纯净高效的网络笔记
  
  APK下载包（点击下载）：[胖虎笔记1.0正式版](https://github.com/cnybh/panghuNOTE/raw/master/%E8%83%96%E8%99%8E%E7%AC%94%E8%AE%B01.0%E6%AD%A3%E5%BC%8F%E7%89%88.apk)
  
+ 国内用户速度过慢请使用此下载通道 APK下载包（点击下载）：[胖虎笔记1.0正式版](https://coding.net/u/CNybh/p/panghuNOTE/git/blob/master/%E8%83%96%E8%99%8E%E7%AC%94%E8%AE%B01.0%E6%AD%A3%E5%BC%8F%E7%89%88.apk)
+ 
  1.下载完成后连接导入手机即可安装
  
  2.点击图标进入应用
